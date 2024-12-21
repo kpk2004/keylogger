@@ -28,8 +28,8 @@ Follow these steps to set up and run the keylogger on your machine.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/python-keylogger.git
-cd python-keylogger
+git clone https://github.com/kpk2004/keylogger.git
+cd keylogger
 ```
 
 ### Step 2: Install dependencies
@@ -73,7 +73,7 @@ Example Log Output:
 
 ## Ethical Considerations
 
-**Important**: This keylogger is for educational purposes only. Unauthorized use of keyloggers is illegal and violates privacy rights.
+**Important**: This keylogger is for educational purposes only.
 
 - Always obtain consent before running a keylogger on any system that you don't own.
 - This project should only be used in environments where you have explicit permission (e.g., on your own system or a test system).
