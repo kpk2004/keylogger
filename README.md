@@ -9,8 +9,6 @@ A simple keylogger implemented in Python that logs keystrokes on your system. Th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Ethical Considerations](#ethical-considerations)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
